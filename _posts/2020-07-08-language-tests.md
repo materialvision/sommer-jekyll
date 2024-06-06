@@ -3,50 +3,88 @@ layout: post
 title: "Language Tests"
 category: example2
 ---
+An ongoing collaboration between Espen Sommer Eide and Signe Lidén.  
+  
+For our future shadows (2023)  
+a live radio montage by Vertikale Studier  
+  
+![paviljong_vatmark_2022-295.jpg](images/blobs/paviljong_vatmark_2022-295.jpg){:.ioda}  
+  
+Their performance started at dusk with a walk on the paths through the wetland and up to a small hill, where the live recording of a radio show was taking place. In the form of a radio montage, the two performers conducted different sound experiments alongside spoken words and recordings that were played through small speakers placed around in the trees. The sound experiments were interactions with a machine learning model trained on months of audio recordings from the wetland area. The performers used a range of acoustic instruments in order to both play with and search the achieve of sounds.  
+  
+More about the latest work at Paviljong Våtmark here (scroll down):  
+[https://paviljong.flytedokk.org/now](https://paviljong.flytedokk.org/now)  
+  
+![VerticalStudiesJune23.jpeg](images/blobs/VerticalStudiesJune23.jpeg){:.ioda}  
+  
 
-Note: I took this test post from [moving](https://github.com/huangyz0918/moving), which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.
+In their collaborations, Lidén and Eide investigate how sound is shaped by and resonates in various environments. The first iteration of the Vertical Studies, the critically acclaimed 2016 performance _Altitude and History_ was staged in the hills above Nikel, Russia, as part of the Dark Ecology journey. Leading the audience on a performative field trip, they delved into the connections between wind and sound at various altitudes and its connections vertically to layers of local history. Local history was represented by material gathered through organising the Nikel Sound History Club.   
+  
 
-### 1. 日本語テスト
+Sound movement through the atmosphere is affected by the wind profile, the open landscape and the winter temperatures, which can bend the wave front, causing sounds to be heard where they normally would not, or vice versa, creating acoustic shadows. Building upon this archive of altitudinal sounds from Nikel and other areas visited by the artists, their next work _Acoustic Shadows and Boundary Reflections_ centred on a new model of verticality. As an imaginative figure the artists experiment with sorting their archive of sounds by height. From the bottom of the oceans, to the planetary boundary layer with land formations and weather shaping the sounds, up through the clouds to the outer atmosphere. The work traces sounds and soundings from a specific place to a more universal sense of space. Various locations (Sint Jansklooster watertower, Fjell Festning) were in 2017 re-imagined into models of the atmosphere to study this material further.   
+  
 
-This is a Japanese test post to show you how japanese is displayed.
+A short video document from the Borealis festival event at Fjell festning 2017.
 
-私は昨日ついにその助力家というのの上よりするたなけれ。
-最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
-がたを知っないはずも同時に九月をいよいよたありた。
+{% include vimeoPlayer.html id=260461444 %}
 
-もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。
+More info in Norwegian about Vertical Studies at Forfatternes klimaaksjon [her](https://forfatternesklimaaksjon.no/2018/03/27/vertical-studies-av-espen-sommer-eide-og-signe-liden-video/)
 
-> それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。
+  
+  
 
-この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。
+![](/uploads/bootsy/image/47/W365_939758-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/31/W365_939511-Vertical-Studies-Jana-Winderen---Installation.jpg)  
 
-From [すぐ使えるダミーテキスト - 日本語 Lorem ipsum.](http://lipsum.sugutsukaeru.jp/index.cgi) 
+Photos by Pieter Kiers  
+  
 
+![](/uploads/bootsy/image/32/W365_939537-Espen-Sommer-Eide-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/33/W365_939541-Signe-Liden-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/34/W365_939547-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/35/W365_939555-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/36/W365_939564-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/37/W365_939603-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/38/W365_939608-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/39/W365_939679-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/40/W365_939682-Espen-Sommer-Eide-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/41/W365_939696-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/42/W365_939702-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/43/W365_939708-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/44/W365_939714-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/45/W365_939734-Vertical-Studies-Jana-Winderen---Installation.jpg)![](/uploads/bootsy/image/46/W365_939741-Vertical-Studies-Jana-Winderen---Installation.jpg)  
 
-### 2. 繁体中文测试
+  
+  
 
-This is a chinese test post to show you how chinese is displayed.
+{% include vimeoPlayer.html id=187662031 %}
 
-善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。
+  
 
-以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？
+[Altitude and History](https://vimeo.com/187662031) from [Espen Sommer Eide](https://vimeo.com/user6620005) on [Vimeo](https://vimeo.com).
 
-就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。
+  
 
-國新故。
+by Signe Lidén and Espen Sommer Eide  
+  
+a commissioned work for Dark Ecology Journey 2016  
+  
+documented by Friday Milk, Sebastian Frisch and Espen Sommer Eide  
+  
+  
+  
+edited by Espen Sommer Eide  
+  
+sound by Signe Lidén and Espen Sommer Eide  
+  
+thank you Sonic Acts, Hilde M. Methi, Maria Rusinovskaya and the Dark Ecology crew  
+  
+supported by Norsk Kulturråd
 
-> 工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？
+  
+  
 
-From [亂數假文產生器 - Chinese Lorem Ipsum.](http://www.richyli.com/tool/loremipsum/) 
+![](/uploads/bootsy/image/10/large_DSC07490.jpg)  
 
+Some new dark ecology microphones...
 
+  
+  
 
-### 3. 简体中文测试
+![](/uploads/bootsy/image/9/large_DSC06308.jpg)  
 
-效育声去本义然空，各值太法心想，场强实地。 题铁习点儿表管少间千，只何政亲织文意部，千影画派证男须。 手反取长风治增非等直难群，连取及天他己事头级，影数弦适把气快目人。 专议以省通引而千个，格则口段度样水热马，地教少务改磨。 包思外心半院应她算斯，市外会快记路又火学，劳如肃它准众丧边。
-   
-  > 团算部住县单总边素格军所，合音府教看和广光采率位转，位用品根确针百。 证其标元角工方海接交他，论象切万世认一响义，治然身本风弦带题。 向我次路持加北，她不反心。 说总元军例市决，现始即算证养，规走还壳。
+  
+  
 
-因林可相儿应满军，热影省条律因资再，整肃赤心将届。 局广写两量备验还，南教事争工民的，备进研上布。 素身电活非直，速这区交示从，百层达。 资量那毛什京身，白这快。 半打容三手开常价或，手严量般象式效，名可重芽门适。 来设什一我么，光界美么或，住身式准。 造酸改表委验众办地百养，商物战众本列听度名院，制压录丽快与千机内。 住需当四议决得命南然照按民置，当住命形金决否矿单外。 气象理离开新集增际，三划方工义很年关，拉许准孝口。 构片出干计由备美打养，持育总指承入无己。
+![](/uploads/bootsy/image/27/large_DSC08952.jpg)
 
-From [假文生成器， lorem ipsum Chinese](http://www.cancms.com/content/dummytext)
+![](/uploads/bootsy/image/29/large_DSC08241.jpg)  
+  
+
+Wind recording sessions at Fjell outside Bergen and Bloemendal outside Amsterdam. Preparing for two large scale performance/installation works early 2017 for the Borealis Festival and Sonic Acts festival. More info to come.
