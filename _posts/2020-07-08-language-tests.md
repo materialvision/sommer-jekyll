@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Language Tests"
+title: "Vertical Studies"
 category: example2
 ---
 An ongoing collaboration between Espen Sommer Eide and Signe Lidén.  
