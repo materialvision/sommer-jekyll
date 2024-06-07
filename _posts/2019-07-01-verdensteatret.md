@@ -4,7 +4,7 @@ title: Verdensteatret
 category: art
 id: 6
 published: true
-info: (2010-2023) Blackbox, Henie Onstad Centre, NCCA, Moscow, BAM, New York, Shanghai Biennial, Currency Building Kolkata, Empac, Guangdong Art Museum & more
+info: (2010-2024) Blackbox, Henie Onstad Centre, NCCA, Moscow, BAM, New York, Shanghai Biennial, Currency Building Kolkata, Empac, Guangdong Art Museum & more
 ---
 VERDENSTEATRET is an artist collective based in Oslo. The group's continuous artistry has been established over the last 30 years. The group was founded in Bergen in 1986 by Lisbeth J. Bodd and Asle Nilsen, with background from respectively theatre and visual art.  
   

@@ -4,7 +4,7 @@ title: "Vertical Studies"
 category: art
 id: 4
 published: true
-info: (2016-2023) Dark Ecology Journey, Sonic Acts, Borealis Festival, Paviljong Våtmark
+info: (2016-2024) Dark Ecology Journey, Sonic Acts, Borealis Festival, Paviljong Våtmark
 ---
 An ongoing collaboration between Espen Sommer Eide and Signe Lidén.  
   

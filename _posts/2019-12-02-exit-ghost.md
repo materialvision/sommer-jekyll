@@ -4,7 +4,7 @@ title: Enter ghost, exit ghost, re-enter ghost
 category: art
 id: 17
 published: true
-info: (2022) Nitja, Lydgalleriet (Verdensteatret installation)
+info: (2022-2024) Nitja, Lydgalleriet, Steinkaret (Verdensteatret installation)
 ---
 {% include vimeoPlayer.html id=689766571 %}
 
