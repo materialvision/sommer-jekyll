@@ -24,7 +24,7 @@ Verdensteatret's poetics are characterized by an ongoing experimentation within 
 
 They have developed a complex audio-visual expression, where emerging landscapes of sound integrated with sculptured scenography and bits of fragile, human tale.  
   
-![](images/blobs/Medium_02__big.jpg)
+![](images/blobs/Medium_02_big.jpg)
 
 _Seeing the sound, listening to the images._   
   

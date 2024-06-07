@@ -6,7 +6,7 @@ id: 12
 published: true
 info: (2009-2020) Âvv Skolt Sámi Museum, Sami Center for Contemporary Art, Karasjok, Lofoten Sound Art Symposium, Henningsvær
 ---
-![photo_by_Randi_Sjølie.jpeg](images/blobs/photo_by_Randi_Sjølie.jpeg)  
+![photo_by_Randi_Sjølie.jpeg](images/blobs/photo_by_Randi_Sjolie.jpeg)  
   
 The Language memory archive has recently been reworked into a portable instrument to be played by the performer, like an harmonica. This performance has been shown at the opening of the museum in Neiden and also at Lofoten Sound Art Symposium 2018.  
   
