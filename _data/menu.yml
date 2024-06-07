@@ -2,11 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: selected works
+  - title: bio
+    url: bio.html
 
-  - title: art
+  - title: selected artworks
     post_list:
       category: art
+      limit: 20
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: music
+    post_list:
+      category: music
       limit: 20
       show_more: true
       show_more_text: See archive...

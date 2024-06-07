@@ -62,7 +62,7 @@ The weeds are spreading to the continent. The Korsmo weeds archive also visited 
 
   
 
-Now available for online listening, the Weed projects radioplay "a Trial of Weeds". Follow this [link](http://www.kunstsenter.no/en/transmittershow/)  
+Now available for online listening, the Weed projects radioplay "a Trial of Weeds". Follow this [link](https://www.dropbox.com/scl/fi/lwutmmh2nova5k64duw52/A-Trial-of-Weeds-V2.0.mp3?rlkey=wsuxsz9bq1fkwikftt3z5aetb&dl=0)  
   
 more info:
 
