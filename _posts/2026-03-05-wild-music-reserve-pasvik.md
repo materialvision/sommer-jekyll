@@ -32,7 +32,7 @@ In recent years, Sommer Eide has worked extensively in the border area between N
 
 The exhibition is supported by The Arts Council Norway, The Audio and Visual Fund, The Norwegian Fotographic Fund and Oslo Council.
 
-On the occasion of the exhibition, there have made a film in which Espen Sommer Eide talks about the exhibition project:
+On the occasion of the exhibition, here is a film that was made in which Espen Sommer Eide talks about the exhibition project and some clips of the works and sounds:
   
 {% include vimeoPlayer.html id=1136084583 %}  
 
@@ -41,3 +41,5 @@ Reviews:
 [– Kanskje vil lyden som lagres i kunsten overleve all digitalisering, Ballade, 14.11.25](https://www.ballade.no/kunstmusikk/kanskje-vil-lyden-som-lagres-i-kunsten-overleve-all-digitalisering/)  
 [Fred i skogen, Klassekampen](https://klassekampen.no/artikkel/2025-12-03/fred-i-skogen)  
 [Multimedialt landskapsmaleri](https://kunstavisen.no/artikkel/2025/multimedialt-landskapsmaleri)  
+
+photos by Istvan Virag
