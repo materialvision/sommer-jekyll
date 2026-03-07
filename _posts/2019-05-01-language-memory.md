@@ -4,7 +4,7 @@ title: Language Memory
 category: art
 id: 12
 published: true
-info: (2009-2020) Âvv Skolt Sámi Museum, Sami Center for Contemporary Art, Karasjok, Lofoten Sound Art Symposium, Henningsvær
+info: (2009-2026) Âvv Skolt Sámi Museum, Sami Center for Contemporary Art, Karasjok, Lofoten Sound Art Symposium, Barents Spektakel
 ---
 ![photo_by_Randi_Sjølie.jpeg](images/blobs/photo_by_Randi_Sjolie.jpeg)  
   
