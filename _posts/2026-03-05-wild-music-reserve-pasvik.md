@@ -34,7 +34,7 @@ The exhibition is supported by The Arts Council Norway, The Audio and Visual Fun
 
 On the occasion of the exhibition, here is a film that was made in which Espen Sommer Eide talks about the exhibition project and some clips of the works and sounds:
   
-{% include vimeoPlayer.html id=1136084583 %}  
+{% include videoserverPlayer.html slug="espen-sommer-eide-wild-music-reserve-pasvik" %}  
 
 Reviews:
 

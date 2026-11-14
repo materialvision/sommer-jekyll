@@ -51,7 +51,7 @@ The eyes have two basic motions, saccades and fixations, the saccades are rapid 
 Naturally your disposition affects the movement. Being a musician and composer I instantly start composing music by rhythmically moving my gaze from place to place, back and forth, creating patterns. So I find myself somehow in between complete awareness of my eyes’ movement, and on the other side aiming for a free gaze — letting the instincts control the movement automatically while looking. The different states of consciousness and intentionality merge and become inseparable. A free gaze upon these landscapes so invested in politics, art and science at times seems impossible.  
   
 
-{% include vimeoPlayer.html id=110241648 %}
+{% include videoserverPlayer.html slug="material-vision-silent-reading" %}
 
   
 

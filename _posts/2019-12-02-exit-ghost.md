@@ -6,7 +6,7 @@ id: 17
 published: true
 info: (2022-2024) Nitja, Lydgalleriet, Steinkaret (Verdensteatret installation)
 ---
-{% include vimeoPlayer.html id=689766571 %}
+{% include videoserverPlayer.html slug="enter-ghost-exit-ghost-re-enter-ghost-excerpts-from-nitja-2022" %}
 
   
 With a title found in the stage instructions of ‘Hamlet’ Verdensteatrets new piece is a series of intervals that escapes our chronological sense of time.  

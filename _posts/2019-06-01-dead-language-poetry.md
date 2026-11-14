@@ -41,7 +41,7 @@ The archiving of languages can function as both a destructive and a creative pro
 In the exhibition the theme is also dealt with from a purely aesthetic point of view. For example is there a unique aural imprint embedded in all languages, and can such an aesthetic aspect be separated from the knowledge-bearing and identity-forming aspects? What is the sound of a dead language and can it be revived? When Edison invented the first recording apparatus for sound, the phonograph, it was quickly seen as a medium not primarily for reproducing music, but for listening to recordings of voices from people who had passed on. The voices from the phonograph were experienced as voices without bodies, as spirits in space. Through deconstructions of language and the voice Sommer Eide deals with issues such as the boundaries between living and dead languages, between meaning and sound, and between linguistic-metaphorical structures and the musical organization of sound. In addition to the exhibition, the project consists of a series of performances with a point of departure in self-made instruments (“Philosophical Instruments”).  
   
 
-{% include vimeoPlayer.html id=76422483 %}
+{% include videoserverPlayer.html slug="dead-language-poetry-excerpt" %}
 
   
   
@@ -72,12 +72,12 @@ All photos by Thor Brødreskift
 
   
   
-{% include vimeoPlayer.html id=114021865 %}  
+{% include videoserverPlayer.html slug="structural-metaphors-of-western-thought-recited-in-the-vedic-style" %}  
   
 Voice artist Trine Hylander Friis interpretation of a composition by Espen Sommer Eide.  
 The melodic structure is based on the indian Vedic recital tradition. The list of metaphors used as a “libretto” in the piece, is a system of conceptual metaphors based on Lakoff and Johnsons book "Metaphors we live by" (1980). Some would even go as far as to say they are a universal system of the way we think.  
   
-{% include vimeoPlayer.html id=64410489 %}
+{% include videoserverPlayer.html slug="spirit-catcher" %}
 
 Spirit Catcher (phonograph-box, tripod, bellows, motor, electronics)  
 by Espen Sommer Eide, reader Anne Marthe Dyvi  
@@ -109,7 +109,7 @@ Photo by Hans de Bruyn
   
   
 This was also developed into a performance for the radio festival Radiophrenia in Glasgow 2017.   
-{% include vimeoPlayer.html id=384615709 %}  
+{% include videoserverPlayer.html slug="espen-sommer-eide-radiophrenia-2017-16th-nov" %}  
   
 
 ![](system/files/75/original/Espense__460.jpg)

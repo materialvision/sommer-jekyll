@@ -1,0 +1,226 @@
+/* Player — used inside the embed iframe and on /v/<slug> */
+
+.player {
+  position: relative;
+  background: #000;
+  overflow: hidden;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.player video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #000;
+}
+
+html, body.embed-body {
+  margin: 0;
+  height: 100%;
+  background: #000;
+}
+
+.embed-body .player {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* top bar */
+
+.player-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1rem;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), transparent);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.player:hover .player-top,
+.player.paused .player-top,
+.player:focus-within .player-top {
+  opacity: 1;
+}
+
+.player-title {
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  line-height: 1.4;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+  padding-top: 0.15rem;
+}
+
+.player[data-background="1"] .player-top { display: none; }
+
+/* play overlay */
+
+.play-overlay {
+  position: absolute;
+  inset: 0 0 52px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.play-overlay[hidden], .play-overlay.hidden {
+  display: none;
+}
+
+.play-overlay svg {
+  width: 76px;
+  height: 76px;
+  filter: drop-shadow(0 2px 12px rgba(0, 0, 0, 0.45));
+  transition: transform 0.2s ease;
+}
+
+.play-overlay circle {
+  fill: rgba(20, 20, 20, 0.55);
+  stroke: rgba(255, 255, 255, 0.85);
+  stroke-width: 1.5;
+}
+
+.play-overlay path { fill: #fff; }
+
+.play-overlay:hover svg { transform: scale(1.06); }
+
+@media (max-width: 640px) {
+  .play-overlay svg { width: 58px; height: 58px; }
+}
+
+/* quality menu */
+
+.quality-button {
+  pointer-events: auto;
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+  padding: 0.25rem 0.5rem;
+  font-family: inherit;
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  backdrop-filter: blur(4px);
+}
+
+.quality-button:hover { background: rgba(0, 0, 0, 0.7); }
+
+.quality-menu {
+  position: absolute;
+  top: 3rem;
+  right: 0.9rem;
+  min-width: 8.5rem;
+  background: rgba(16, 16, 16, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 0.3rem;
+  z-index: 10;
+}
+
+.quality-menu[hidden] { display: none; }
+
+.quality-menu button {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 1rem;
+  background: none;
+  border: 0;
+  color: rgba(255, 255, 255, 0.82);
+  font-family: inherit;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  padding: 0.4rem 0.55rem;
+  text-align: left;
+  cursor: pointer;
+}
+
+.quality-menu button:hover,
+.quality-menu button.active {
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
+
+.quality-menu .tick { color: #fff; }
+
+/* spinner */
+
+.spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 34px;
+  height: 34px;
+  margin: -17px 0 0 -17px;
+  border: 2px solid rgba(255, 255, 255, 0.25);
+  border-top-color: rgba(255, 255, 255, 0.9);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  pointer-events: none;
+}
+
+.spinner[hidden] { display: none; }
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* error */
+
+.player-error {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  background: rgba(0, 0, 0, 0.82);
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.player-error[hidden] { display: none; }
+
+.player-error p { margin: 0; }
+
+.error-detail {
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 0.72rem;
+  max-width: 34rem;
+}
+
+/* fullscreen */
+
+.player:fullscreen,
+.player:-webkit-full-screen {
+  width: 100vw;
+  height: 100vh;
+  aspect-ratio: auto;
+}
+
+.player:fullscreen video { height: 100%; }
+
+/* watch page needs a defined height from aspect-ratio */
+.watch-player { aspect-ratio: 16 / 9; }
+.watch-player video { position: absolute; inset: 0; }
+
+@media (max-width: 640px) {
+  .watch-player { aspect-ratio: 16 / 9; }
+}

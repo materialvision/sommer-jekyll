@@ -75,7 +75,7 @@ Swedish 60 cocktails were served.
 _This event is presented by Cabinet with generous support from the Office for Contemporary Art Norway, the Royal Norwegian Consulate General in New York, and Performa._
 
   
-{% include vimeoPlayer.html id=86301080 %}
+{% include videoserverPlayer.html slug="korsmos-ugressarkiv-the-korsmo-weed-archive" %}
 
 An exhibition by Kristin Tårnesvik and Espen Sommer Eide.  
   
@@ -100,7 +100,7 @@ Live printing and paper speakers. Photos by&nbsp;Dan Mihaltianu for Performance 
 ![](/system/files/110/original/k_e_DSC2698_1280.JPG?1386322354)
 
   
-{% include vimeoPlayer.html id=67902658 %}  
+{% include videoserverPlayer.html slug="systematismens-1-borg-performance" %}  
 
   
 Performed live at Rad#5 - Bergen 6. June 2013  
@@ -116,7 +116,7 @@ Mari Kvien Brunvoll, bagpipe and khaen.
 Systematismens 1. Borg is made of historical printing plates used in weed biologist Emil Korsmo (1864-2129) textbooks. Systematism pioneer Korsmo created a new economy in agriculture by classifying and measuring the value of useful and useless plants.  
 
   
-{% include vimeoPlayer.html id=68839001 %}  
+{% include videoserverPlayer.html slug="systematismens-1-borg-documentation-clip" %}  
   
   
 [http://formativedager.tumblr.com/](http://formativedager.tumblr.com/)  
