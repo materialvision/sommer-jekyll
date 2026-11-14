@@ -15,7 +15,7 @@ Initiated by BEK – Bergen center for electronic arts, the artists have visited
   
 Notions of “place” must be seen in new light when concepts such as “post truth” and “fake news” in recent years have become actualised. Do we need to find new ways to do reality-based audio recordings when the differences between truth and fiction have become politicised? Can sound art find a new way to bridge the gaps of a more polarized media reality?  
   
-{% include vimeoPlayer.html id=323566659 %}  
+{% include videoserverPlayer.html slug="reality-based-audio-workshop-mongstad" %}  
   
 ![IMG_5302.JPG](images/blobs/IMG_5302.JPG)  
   

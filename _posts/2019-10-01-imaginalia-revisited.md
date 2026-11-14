@@ -19,9 +19,9 @@ A composer, disillusioned by the limits and weakness of the human imagination, d
 ![3-20190916-DSC07536.jpg](images/blobs/3-20190916-DSC07536.jpg)  
   
 
-{% include vimeoPlayer.html id=366316060 %}  
+{% include videoserverPlayer.html slug="imaginalia-revisited-2019" %}  
   
-{% include vimeoPlayer.html id=275883427 %}  
+{% include videoserverPlayer.html slug="imaginalia-excerpts-from" %}  
   
   
   

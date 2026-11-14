@@ -29,7 +29,7 @@ Sound movement through the atmosphere is affected by the wind profile, the open 
 
 A short video document from the Borealis festival event at Fjell festning 2017.
 
-{% include vimeoPlayer.html id=260461444 %}
+{% include videoserverPlayer.html slug="vertical-studies-acoustic-shadows-and-boundary-reflections" %}
 
 More info in Norwegian about Vertical Studies at Forfatternes klimaaksjon [her](https://forfatternesklimaaksjon.no/2018/03/27/vertical-studies-av-espen-sommer-eide-og-signe-liden-video/)
 
@@ -46,7 +46,7 @@ Photos by Pieter Kiers
   
   
 
-{% include vimeoPlayer.html id=187662031 %}
+{% include videoserverPlayer.html slug="altitude-and-history" %}
 
   
 

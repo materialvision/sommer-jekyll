@@ -9,17 +9,17 @@ info: (2010-2026) Blackbox, Henie Onstad Centre, NCCA, Moscow, BAM, New York, Sh
 VERDENSTEATRET is an artist collective based in Oslo. The group's continuous artistry has been established over the last 30 years. The group was founded in Bergen in 1986 by Lisbeth J. Bodd and Asle Nilsen, with background from respectively theatre and visual art. I have been a part of the company since 2008.
 
 Now touring is "Flat Sun", a short trailer here:
-{% include vimeoPlayer.html id=1170981207 %}  
+{% include videoserverPlayer.html slug="flat-sun" %}  
   
 "Trust me tomorrow" (see full information [here](http://verdensteatret.com/trust-me-tomorrow)):  
-{% include vimeoPlayer.html id=468735126 %}  
+{% include videoserverPlayer.html slug="trust-me-tomorrow-trailer" %}  
   
 Today the group consists of artists representing many different artistic genres and professions. They endeavour to use a collaborative process to deeply integrate different artistic disciplines into projects that bridge the gap between artistic boarders.  
   
 ![](images/blobs/vt_09_20.jpg)  
   
 
-{% include vimeoPlayer.html id=112480587 %}  
+{% include videoserverPlayer.html slug="bridge-over-mud-full-documentation" %}  
   
 
 Verdensteatret's poetics are characterized by an ongoing experimentation within different medias by building complex links between seemingly incompatible technologies and materials. An experimental use of audiovisual technology in close dialogue with more traditional tools of artistic expression results in large scale orchestral works and space-related musical compositions.   
@@ -40,7 +40,7 @@ Their works are presented widely international in different art contexts and loc
 
 Verdensteatret is supported by [Arts Council Norway](http://kulturradet.no/) and other official art-foundations in Norway.   
   
-{% include vimeoPlayer.html id=18329192 %}
+{% include videoserverPlayer.html slug="and-all-the-questionmarks-started-to-sing" %}
 
 [And All the Questionmarks Started to Sing](http://vimeo.com/18329192) from [Verdensteatret](http://vimeo.com/user5602266) on [Vimeo](http://vimeo.com).
 
