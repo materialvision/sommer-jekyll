@@ -18,18 +18,19 @@
   var startMuted = root.dataset.muted === "1";
   var background = root.dataset.background === "1";
   var startAt = parseFloat(root.dataset.start || "0") || 0;
-  var controls = root.dataset.controls !== "0";
+  var controlsEnabled = root.dataset.controls !== "0";
+  var started = false;
   var hls = null;
   var levels = [];
   var qualityMenu = null;
 
   root.classList.add("paused");
+  // Start with the custom poster button only. Native controls appear after
+  // playback starts, avoiding two centre play buttons before the first click.
+  video.removeAttribute("controls");
 
-  if (!controls) {
-    video.removeAttribute("controls");
+  if (!controlsEnabled) {
     video.style.cursor = "pointer";
-  } else {
-    video.setAttribute("controls", "");
   }
 
   function showSpinner(show) {
@@ -147,7 +148,7 @@
     });
   }
 
-  if (!controls) {
+  if (!controlsEnabled) {
     video.addEventListener("click", function () {
       if (video.paused) tryPlay();
       else video.pause();
@@ -155,6 +156,10 @@
   }
 
   video.addEventListener("play", function () {
+    if (controlsEnabled && !started) {
+      started = true;
+      video.setAttribute("controls", "");
+    }
     hideOverlay();
     showSpinner(true);
   });
@@ -165,11 +170,16 @@
   video.addEventListener("canplay", function () { showSpinner(false); });
   video.addEventListener("waiting", function () { showSpinner(true); });
   video.addEventListener("pause", function () {
-    if (!video.ended) showOverlay();
+    if ((!started || !controlsEnabled) && !video.ended) showOverlay();
+    else hideOverlay();
     showSpinner(false);
   });
   video.addEventListener("ended", function () {
-    if (!background) showOverlay();
+    if (!started || !controlsEnabled) {
+      if (!background) showOverlay();
+    } else {
+      hideOverlay();
+    }
   });
   video.addEventListener("error", function () {
     if (!hls) showError(video.error ? video.error.message : "Media error");

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Le Grain de la Voix · Espen Sommer Eide — Video</title>
+  <link rel="icon" href="../static/favicon.svg">
+  <link rel="stylesheet" href="../static/site.css">
+  <link rel="stylesheet" href="../static/player.css">
+<link rel="canonical" href="https://sommer.alog.net/video/watch/le-grain-de-la-voix.html">
+</head>
+<body>
+<header class="site-header">
+  <a class="site-name" href="../index.html">Espen Sommer Eide — Video</a>
+  <a class="site-back" href="https://sommer.alog.net">sommer.alog.net &rarr;</a>
+</header>
+
+<main class="watch">
+  <p class="back"><a href="../index.html">&larr; Espen Sommer Eide — Video</a></p>
+  <div class="player watch-player" id="player"
+       data-src="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/le-grain-de-la-voix/hls/master.m3u8"
+       data-poster="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/le-grain-de-la-voix/poster.jpg"
+       data-title="Le Grain de la Voix"
+       data-autoplay="0" data-muted="0" data-loop="0" data-controls="1"
+       data-background="0" data-start="0">
+    <video id="video" playsinline preload="metadata" poster="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/le-grain-de-la-voix/poster.jpg">
+      
+    </video>
+    <div class="player-top"><span class="player-title">Le Grain de la Voix</span>
+      <button class="quality-button" id="quality-button" type="button" hidden aria-haspopup="true" aria-expanded="false">Auto</button>
+    </div>
+    <button class="play-overlay" id="play-overlay" type="button" aria-label="Play Le Grain de la Voix">
+      <svg viewBox="0 0 68 68" aria-hidden="true"><circle cx="34" cy="34" r="33"/><path d="M27 21l19 13-19 13z"/></svg>
+    </button>
+    <div class="spinner" id="spinner" hidden></div>
+    <div class="player-error" id="player-error" hidden>
+      <p>This video could not be played.</p>
+      <p class="error-detail" id="error-detail"></p>
+    </div>
+  </div>
+
+  <header class="watch-head">
+    <h1>Le Grain de la Voix</h1>
+    <p class="watch-meta">
+      2012
+       · 3:20
+       · up to 720p
+    </p>
+  </header>
+  <div class="watch-description">The instrument is made for 4 singers and 1 conductor. The conductor controls the sounds that are played through four miniature speakers that are (more or less) inserted into the singers mouths. The singers then proceed to shape the sounds resonance with their mouth cavity as the resonant chamber. It is perhaps best described as reversing the speech direction, where I as the conductor supply what is normally the vocal chords or &#34;voice box&#34; job. The resulting piece is a polyphonic and minimalistic transformation of various vowel resonances. The title alludes to Roland Barthes famous essay on the grain of the voice, giving identity to the voice and reflects on the relationship between the voice and the subject.
+
+The piece featured in the video was composed for coreographer Eva-Cecilie Richardsens perfomance &#34;Speaking and building&#34; in April 2012, Dansens Hus, Oslo.
+
+The singers: Cecilie Lindeman Steen, Janne-Camilla Lyster, Gry Bech-Hanssen and Marte Vold
+The conductor: Alexander Rishaug</div>
+  
+  <p class="watch-links">
+    <a href="https://sommer.alog.net/video/embed/le-grain-de-la-voix.html">Embed page</a>
+    <button class="copy-button" type="button" data-copy="https://sommer.alog.net/video/embed/le-grain-de-la-voix.html">Copy link</button>
+  </p>
+</main>
+<script src="../static/hls.light.min.js"></script>
+<script src="../static/player.js"></script>
+<script>
+document.querySelectorAll('[data-copy]').forEach(function (b) {
+  b.addEventListener('click', function () {
+    navigator.clipboard.writeText(b.dataset.copy).then(function () {
+      var old = b.textContent; b.textContent = 'Copied'; setTimeout(function () { b.textContent = old; }, 1200);
+    });
+  });
+});
+</script>
+
+</body>
+</html>

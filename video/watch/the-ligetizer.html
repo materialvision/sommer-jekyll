@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>the Ligetizer · Espen Sommer Eide — Video</title>
+  <link rel="icon" href="../static/favicon.svg">
+  <link rel="stylesheet" href="../static/site.css">
+  <link rel="stylesheet" href="../static/player.css">
+<link rel="canonical" href="https://sommer.alog.net/video/watch/the-ligetizer.html">
+</head>
+<body>
+<header class="site-header">
+  <a class="site-name" href="../index.html">Espen Sommer Eide — Video</a>
+  <a class="site-back" href="https://sommer.alog.net">sommer.alog.net &rarr;</a>
+</header>
+
+<main class="watch">
+  <p class="back"><a href="../index.html">&larr; Espen Sommer Eide — Video</a></p>
+  <div class="player watch-player" id="player"
+       data-src="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/the-ligetizer/hls/master.m3u8"
+       data-poster="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/the-ligetizer/poster.jpg"
+       data-title="the Ligetizer"
+       data-autoplay="0" data-muted="0" data-loop="0" data-controls="1"
+       data-background="0" data-start="0">
+    <video id="video" playsinline preload="metadata" poster="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/the-ligetizer/poster.jpg">
+      
+    </video>
+    <div class="player-top"><span class="player-title">the Ligetizer</span>
+      <button class="quality-button" id="quality-button" type="button" hidden aria-haspopup="true" aria-expanded="false">Auto</button>
+    </div>
+    <button class="play-overlay" id="play-overlay" type="button" aria-label="Play the Ligetizer">
+      <svg viewBox="0 0 68 68" aria-hidden="true"><circle cx="34" cy="34" r="33"/><path d="M27 21l19 13-19 13z"/></svg>
+    </button>
+    <div class="spinner" id="spinner" hidden></div>
+    <div class="player-error" id="player-error" hidden>
+      <p>This video could not be played.</p>
+      <p class="error-detail" id="error-detail"></p>
+    </div>
+  </div>
+
+  <header class="watch-head">
+    <h1>the Ligetizer</h1>
+    <p class="watch-meta">
+      2012
+       · 4:01
+       · up to 720p
+    </p>
+  </header>
+  <div class="watch-description">The Ligetizer is a 6 metronome instrument designed and constructed by Espen Sommer Eide in 2011-12. It has been presented and performed on in various contexts like the Stedilijk Museum Hear It! series in Amsterdam, Borealis festival and Rad #4 Bergen, Norway and Mutek festival, Montreal. This video presents a short improvised piece on the instrument.
+
+Each metronome has a particular function, made visual by the hypnotizing pendulum movement. It could be LFO, pitch control, note-pulses or other parameters. The metronomes are also interconnected to produce more complex rhythms and waveforms when running simultaniously. The instrument is connected to a suitable sound generating source via MIDI. For more info visit: http://sommer.alog.net/posts/242</div>
+  
+  <p class="watch-links">
+    <a href="https://sommer.alog.net/video/embed/the-ligetizer.html">Embed page</a>
+    <button class="copy-button" type="button" data-copy="https://sommer.alog.net/video/embed/the-ligetizer.html">Copy link</button>
+  </p>
+</main>
+<script src="../static/hls.light.min.js"></script>
+<script src="../static/player.js"></script>
+<script>
+document.querySelectorAll('[data-copy]').forEach(function (b) {
+  b.addEventListener('click', function () {
+    navigator.clipboard.writeText(b.dataset.copy).then(function () {
+      var old = b.textContent; b.textContent = 'Copied'; setTimeout(function () { b.textContent = old; }, 1200);
+    });
+  });
+});
+</script>
+
+</body>
+</html>

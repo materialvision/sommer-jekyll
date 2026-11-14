@@ -252,6 +252,78 @@
     ]
   },
   {
+    "slug": "vertical-studies-i-iii",
+    "title": "Vertical Studies I-III",
+    "date": "2019",
+    "duration": 280.043,
+    "width": 1920,
+    "height": 1080,
+    "description": "En performance serie for Dark Ecology Journey (2016), Sonic Acts (2017) og Borealis Festivalen (2017). Et samarbeid mellom Espen Sommer Eide og Signe Lidén.",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/vertical-studies-i-iii/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/vertical-studies-i-iii.html",
+    "watch_url": "https://sommer.alog.net/video/watch/vertical-studies-i-iii.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/vertical-studies-i-iii/hls/master.m3u8",
+    "vimeo_id": "366315425",
+    "renditions": [
+      {
+        "name": "1080p",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "packing-ugress-main25p",
+    "title": "packing_ugress_main25p",
+    "date": "2019",
+    "duration": 1224.0,
+    "width": 1920,
+    "height": 1080,
+    "description": "",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/packing-ugress-main25p/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/packing-ugress-main25p.html",
+    "watch_url": "https://sommer.alog.net/video/watch/packing-ugress-main25p.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/packing-ugress-main25p/hls/master.m3u8",
+    "vimeo_id": "334396604",
+    "renditions": [
+      {
+        "name": "1080p",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
     "slug": "imaginalia-revisited-2019",
     "title": "Imaginalia Revisited (2019)",
     "date": "2019",
@@ -432,6 +504,130 @@
     ]
   },
   {
+    "slug": "fotografen-og-palsen",
+    "title": "Fotografen og palsen",
+    "date": "2015",
+    "duration": 157.525,
+    "width": 1280,
+    "height": 720,
+    "description": "Rural Reading Room (Pals 2015)\n\nhttps://drive.google.com/file/d/0B66UE8F-zoZccndyNkFJVVNxSG8/view?usp=sharing",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/fotografen-og-palsen/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/fotografen-og-palsen.html",
+    "watch_url": "https://sommer.alog.net/video/watch/fotografen-og-palsen.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/fotografen-og-palsen/hls/master.m3u8",
+    "vimeo_id": "142002816",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "kwan-by-kvien-sommer",
+    "title": "KWAN by Kvien & Sommer",
+    "date": "2015",
+    "duration": 281.856,
+    "width": 1920,
+    "height": 1080,
+    "description": "A track from “Weathering”, a mini-album by Norwegian duo Kvien & Sommer, comprised of four broken suites for voice, modular synthesizers, bagpipe and various sound objects.\nhttp://fullofnothing.net/kvien-sommer-weathering-fon48/\n\nVideo by Piotr Pajchel 2015",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/kwan-by-kvien-sommer/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/kwan-by-kvien-sommer.html",
+    "watch_url": "https://sommer.alog.net/video/watch/kwan-by-kvien-sommer.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/kwan-by-kvien-sommer/hls/master.m3u8",
+    "vimeo_id": "126098744",
+    "renditions": [
+      {
+        "name": "1080p",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "rural-reading-room-lokal-tekst",
+    "title": "Rural Reading Room (lokal tekst)",
+    "date": "2014",
+    "duration": 483.221,
+    "width": 1280,
+    "height": 720,
+    "description": "",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/rural-reading-room-lokal-tekst/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/rural-reading-room-lokal-tekst.html",
+    "watch_url": "https://sommer.alog.net/video/watch/rural-reading-room-lokal-tekst.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/rural-reading-room-lokal-tekst/hls/master.m3u8",
+    "vimeo_id": "98541791",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "language-meaning-music-i",
+    "title": "Language meaning music I",
+    "date": "2014",
+    "duration": 440.106,
+    "width": 640,
+    "height": 426,
+    "description": "Espen Sommer Eide 2013",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/language-meaning-music-i/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/language-meaning-music-i.html",
+    "watch_url": "https://sommer.alog.net/video/watch/language-meaning-music-i.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/language-meaning-music-i/hls/master.m3u8",
+    "vimeo_id": "92728992",
+    "renditions": [
+      {
+        "name": "426p",
+        "width": 640,
+        "height": 426
+      },
+      {
+        "name": "360p",
+        "width": 540,
+        "height": 360
+      }
+    ]
+  },
+  {
     "slug": "the-distribution-of-the-audible",
     "title": "The Distribution of the Audible",
     "date": "2014",
@@ -592,6 +788,68 @@
     ]
   },
   {
+    "slug": "oppmalingen-av-tana",
+    "title": "Oppmålingen av Tana",
+    "date": "2013",
+    "duration": 342.059,
+    "width": 1280,
+    "height": 720,
+    "description": "Rural Reading Room 1 (lokale objekter)",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/oppmalingen-av-tana/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/oppmalingen-av-tana.html",
+    "watch_url": "https://sommer.alog.net/video/watch/oppmalingen-av-tana.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/oppmalingen-av-tana/hls/master.m3u8",
+    "vimeo_id": "77990935",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "a-book-of-time",
+    "title": "A book of time",
+    "date": "2013",
+    "duration": 968.981,
+    "width": 1280,
+    "height": 720,
+    "description": "http://formativedager.tumblr.com\nKristin Tårnesvik & Espen Sommer Eide 2013",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/a-book-of-time/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/a-book-of-time.html",
+    "watch_url": "https://sommer.alog.net/video/watch/a-book-of-time.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/a-book-of-time/hls/master.m3u8",
+    "vimeo_id": "72033306",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
     "slug": "systematismens-1-borg-documentation-clip",
     "title": "Systematismens 1. Borg, documentation clip",
     "date": "2013",
@@ -697,6 +955,130 @@
     "watch_url": "https://sommer.alog.net/video/watch/dead-language-poetry-excerpt.html",
     "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/dead-language-poetry-excerpt/hls/master.m3u8",
     "vimeo_id": "76422483",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "le-grain-de-la-voix",
+    "title": "Le Grain de la Voix",
+    "date": "2012",
+    "duration": 200.0,
+    "width": 1280,
+    "height": 720,
+    "description": "The instrument is made for 4 singers and 1 conductor. The conductor controls the sounds that are played through four miniature speakers that are (more or less) inserted into the singers mouths. The singers then proceed to shape the sounds resonance with their mouth cavity as the resonant chamber. It is perhaps best described as reversing the speech direction, where I as the conductor supply what is normally the vocal chords or \"voice box\" job. The resulting piece is a polyphonic and minimalistic transformation of various vowel resonances. The title alludes to Roland Barthes famous essay on the grain of the voice, giving identity to the voice and reflects on the relationship between the voice and the subject.\n\nThe piece featured in the video was composed for coreographer Eva-Cecilie Richardsens perfomance \"Speaking and building\" in April 2012, Dansens Hus, Oslo.\n\nThe singers: Cecilie Lindeman Steen, Janne-Camilla Lyster, Gry Bech-Hanssen and Marte Vold\nThe conductor: Alexander Rishaug",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/le-grain-de-la-voix/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/le-grain-de-la-voix.html",
+    "watch_url": "https://sommer.alog.net/video/watch/le-grain-de-la-voix.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/le-grain-de-la-voix/hls/master.m3u8",
+    "vimeo_id": "51205110",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "the-ligetizer",
+    "title": "the Ligetizer",
+    "date": "2012",
+    "duration": 241.116,
+    "width": 1280,
+    "height": 720,
+    "description": "The Ligetizer is a 6 metronome instrument designed and constructed by Espen Sommer Eide in 2011-12. It has been presented and performed on in various contexts like the Stedilijk Museum Hear It! series in Amsterdam, Borealis festival and Rad #4 Bergen, Norway and Mutek festival, Montreal. This video presents a short improvised piece on the instrument.\n\nEach metronome has a particular function, made visual by the hypnotizing pendulum movement. It could be LFO, pitch control, note-pulses or other parameters. The metronomes are also interconnected to produce more complex rhythms and waveforms when running simultaniously. The instrument is connected to a suitable sound generating source via MIDI. For more info visit: http://sommer.alog.net/posts/242",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/the-ligetizer/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/the-ligetizer.html",
+    "watch_url": "https://sommer.alog.net/video/watch/the-ligetizer.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/the-ligetizer/hls/master.m3u8",
+    "vimeo_id": "49870302",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "phonophani-nold-live",
+    "title": "Phonophani - \"Nold\" (Live)",
+    "date": "2011",
+    "duration": 454.12,
+    "width": 1280,
+    "height": 720,
+    "description": "Live from the 2011 Présences Électronique Festival, Paris. Video and sound by François Bonnet INA/GRM.",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/phonophani-nold-live/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/phonophani-nold-live.html",
+    "watch_url": "https://sommer.alog.net/video/watch/phonophani-nold-live.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/phonophani-nold-live/hls/master.m3u8",
+    "vimeo_id": "25350428",
+    "renditions": [
+      {
+        "name": "720p",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "name": "540p",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "name": "360p",
+        "width": 640,
+        "height": 360
+      }
+    ]
+  },
+  {
+    "slug": "radio-arc",
+    "title": "Radio Arc",
+    "date": "2011",
+    "duration": 223.678,
+    "width": 1280,
+    "height": 720,
+    "description": "I received my Arc today. After unboxing, I updated an old patch I had lying around to be controlled by it. The patch mimics a long-wave radio, and the \"stations\" I tune into are soundfiles lying on my desktop. It was actually originally made to be controlled by the Griffin Powermate knob. But this upgrade to Arc gives me much better control through high resolution and visual feedback. One knob is for tuning in larger/coarser steps and the other for fine tuning into the stations spread around the Arc.",
+    "poster_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/radio-arc/poster.jpg",
+    "embed_url": "https://sommer.alog.net/video/embed/radio-arc.html",
+    "watch_url": "https://sommer.alog.net/video/watch/radio-arc.html",
+    "master_url": "https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/radio-arc/hls/master.m3u8",
+    "vimeo_id": "22406714",
     "renditions": [
       {
         "name": "720p",

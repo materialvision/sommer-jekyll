@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radio Arc · Espen Sommer Eide — Video</title>
+  <meta name="description" content="I received my Arc today. After unboxing, I updated an old patch I had lying around to be controlled by it. The patch mimics a long-wave radio, and the &#34;stations&#34; I tune into are soundfiles lying on my desktop. It was actually originally made to be controlled by the Griffin Powermate knob. But this upgrade to Arc gives me much better control through high resolution and visual feedback. One knob is for tuning in larger/coarser steps and the other for fine tuning into the stations spread around the Arc.">
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://sommer.alog.net/video/embed/radio-arc.html">
+  <link rel="icon" href="../static/favicon.svg">
+  <link rel="stylesheet" href="../static/player.css">
+  
+  <meta property="og:type" content="video.other">
+  <meta property="og:title" content="Radio Arc">
+  <meta property="og:description" content="I received my Arc today. After unboxing, I updated an old patch I had lying around to be controlled by it. The patch mimics a long-wave radio, and the &#34;stations&#34; I tune into are soundfiles lying on my desktop. It was actually originally made to be controlled by the Griffin Powermate knob. But this upgrade to Arc gives me much better control through high resolution and visual feedback. One knob is for tuning in larger/coarser steps and the other for fine tuning into the stations spread around the Arc.">
+  <meta property="og:image" content="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/radio-arc/poster.jpg">
+  <meta property="og:video:width" content="1280">
+  <meta property="og:video:height" content="720">
+  <meta name="twitter:card" content="player">
+  <meta name="twitter:title" content="Radio Arc">
+  <meta name="twitter:image" content="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/radio-arc/poster.jpg">
+</head>
+<body class="embed-body">
+  <div class="player" id="player"
+       data-src="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/radio-arc/hls/master.m3u8"
+       data-poster="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/radio-arc/poster.jpg"
+       data-title="Radio Arc"
+       data-autoplay="0"
+       data-muted="0"
+       data-loop="0"
+       data-controls="1"
+       data-background="0"
+       data-start="0">
+    <video id="video"
+           playsinline
+           preload="metadata"
+           poster="https://sommer-video.fra1.cdn.digitaloceanspaces.com/videos/radio-arc/poster.jpg"
+           >
+      
+    </video>
+
+    <div class="player-top">
+      <span class="player-title">Radio Arc</span>
+      <button class="quality-button" id="quality-button" type="button" hidden aria-haspopup="true" aria-expanded="false">Auto</button>
+    </div>
+
+    <button class="play-overlay" id="play-overlay" type="button" aria-label="Play Radio Arc">
+      <svg viewBox="0 0 68 68" aria-hidden="true"><circle cx="34" cy="34" r="33"/><path d="M27 21l19 13-19 13z"/></svg>
+    </button>
+
+    <div class="spinner" id="spinner" hidden></div>
+
+    <div class="player-error" id="player-error" hidden>
+      <p>This video could not be played.</p>
+      <p class="error-detail" id="error-detail"></p>
+    </div>
+  </div>
+
+  <script src="../static/hls.light.min.js"></script>
+  <script src="../static/player.js"></script>
+</body>
+</html>
